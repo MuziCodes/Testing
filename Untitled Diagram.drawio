@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T21:21:34.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0" etag="XTrIFfiyQL3jFsMOG9s5" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T21:21:42.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0" etag="3fXQyu_ZM6p1PALUJvz9" version="22.0.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="906" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -78,7 +78,7 @@
           <mxGeometry x="530" y="135" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R2fm9n2JTKY8QwwVGsRn-12" value="It records information about each order, " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="875" y="135" width="105" height="50" as="geometry" />
+          <mxGeometry x="900" y="260" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="Products" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="210" width="250" height="90" as="geometry" />
